@@ -1,9 +1,9 @@
 {
-    "name": "hoter/layer",
+    "name": "hoter/yii2-layer",
     "description": "layer for yii2 by hoter",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","layer"],
-    "license": "null",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "hoer",
@@ -19,7 +19,3 @@
         }
     }
 }
-
-
-
-
