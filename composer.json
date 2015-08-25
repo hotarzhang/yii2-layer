@@ -3,7 +3,7 @@
     "description": "layer for yii2 by hoter",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","layer"],
-    "license": "Apache-2.0",
+    "license": "null",
     "authors": [
         {
             "name": "hoer",
