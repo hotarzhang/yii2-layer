@@ -18,6 +18,10 @@ class LayerAsset extends AssetBundle
         'layer.js'
     ];
 
+    public $depends = [
+        'yii\web\JqueryAsset',
+    ];
+
     public function init() {
         $this->sourcePath = dirname(__FILE__) . DIRECTORY_SEPARATOR . 'assets';
     }
